@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="menuName">
+        <item>Шницель</item>
+        <item>Шарсан загас</item>
+        <item>Бууз</item>
+        <item>Паста карбонара</item>
+        <item>Махан цуглуулга</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>Амталсан хонь үхрийн махан таташийг өндөгөөр бүрж шарсан шницель</item>
+        <item>Яснаас нь салгаж амталж шарсан цагаан загас</item>
+        <item>Гараар татсан үхрийн махтай 8ш бууз, байцааны салаттай</item>
+        <item>Гахайн утсан мах, мөөг, сонгино, сармис, пармезан бяслаг, цөцгий, сармистай талх</item>
+        <item>Гриллдэж шарсан тахиа, Үхрийн гол мах, Гахайн шарсан нуруу, Холимог зайдас, Шарсан хонины хавирга хачирнуудтай</item>
+    </string-array>
+
+    <string-array name="ingredients">
+        <item>Амталсан хонь үхрийн махан таташийг өндөгөөр бүрж шарсан шницель</item>
+        <item>Яснаас нь салгаж амталж шарсан цагаан загас</item>
+        <item>Гараар татсан үхрийн махтай 8ш бууз, байцааны салаттай</item>
+        <item>Гахайн утсан мах, мөөг, сонгино, сармис, пармезан бяслаг, цөцгий, сармистай талх</item>
+        <item>Гриллдэж шарсан тахиа, Үхрийн гол мах, Гахайн шарсан нуруу, Холимог зайдас, Шарсан хонины хавирга хачирнуудтай</item>
+    </string-array>
+    <string-array name="procedure">
+        <item>Амталсан хонь үхрийн махан таташийг өндөгөөр бүрж шарсан шницель</item>
+        <item>Яснаас нь салгаж амталж шарсан цагаан загас</item>
+        <item>Гараар татсан үхрийн махтай 8ш бууз, байцааны салаттай</item>
+        <item>Гахайн утсан мах, мөөг, сонгино, сармис, пармезан бяслаг, цөцгий, сармистай талх</item>
+        <item>Гриллдэж шарсан тахиа, Үхрийн гол мах, Гахайн шарсан нуруу, Холимог зайдас, Шарсан хонины хавирга хачирнуудтай</item>
+    </string-array>
+
+</resources>
