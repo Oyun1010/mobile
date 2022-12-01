@@ -1,0 +1,12 @@
+com.example.android.scorekeeper.app-support-compat-26.1.0-0 C:\Users\oyunb\.gradle\caches\transforms-3\9ec574538866a181700ab846c9c89cc1\transformed\support-compat-26.1.0\res
+com.example.android.scorekeeper.app-constraint-layout-1.0.2-1 C:\Users\oyunb\.gradle\caches\transforms-3\a36f98c1833762e1253c43acba50dc7a\transformed\constraint-layout-1.0.2\res
+com.example.android.scorekeeper.app-appcompat-v7-26.1.0-2 C:\Users\oyunb\.gradle\caches\transforms-3\ab4575bb41c56a27e38727fd7ff8e675\transformed\appcompat-v7-26.1.0\res
+com.example.android.scorekeeper.app-support-media-compat-26.1.0-3 C:\Users\oyunb\.gradle\caches\transforms-3\f725b3b5b0daa6dcedd849eeeeb5628e\transformed\support-media-compat-26.1.0\res
+com.example.android.scorekeeper.app-pngs-4 E:\mobile\lab3\Scorekeeper\app\build\generated\res\pngs\debug
+com.example.android.scorekeeper.app-resValues-5 E:\mobile\lab3\Scorekeeper\app\build\generated\res\resValues\debug
+com.example.android.scorekeeper.app-rs-6 E:\mobile\lab3\Scorekeeper\app\build\generated\res\rs\debug
+com.example.android.scorekeeper.app-mergeDebugResources-7 E:\mobile\lab3\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.scorekeeper.app-mergeDebugResources-8 E:\mobile\lab3\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.scorekeeper.app-merged_res-9 E:\mobile\lab3\Scorekeeper\app\build\intermediates\merged_res\debug
+com.example.android.scorekeeper.app-debug-10 E:\mobile\lab3\Scorekeeper\app\src\debug\res
+com.example.android.scorekeeper.app-main-11 E:\mobile\lab3\Scorekeeper\app\src\main\res

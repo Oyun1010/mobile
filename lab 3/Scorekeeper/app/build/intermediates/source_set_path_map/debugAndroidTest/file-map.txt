@@ -1,0 +1,7 @@
+com.example.android.scorekeeper.test.app-androidTest-0 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\build\generated\res\resValues\androidTest\debug
+com.example.android.scorekeeper.test.app-androidTest-1 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\build\generated\res\rs\androidTest\debug
+com.example.android.scorekeeper.test.app-mergeDebugAndroidTestResources-2 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.android.scorekeeper.test.app-mergeDebugAndroidTestResources-3 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.android.scorekeeper.test.app-merged_res-4 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\build\intermediates\merged_res\debugAndroidTest
+com.example.android.scorekeeper.test.app-androidTest-5 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\src\androidTest\res
+com.example.android.scorekeeper.test.app-androidTestDebug-6 D:\Desktop\4-1\mobile\android-fundamentals-apps-v2-master\Scorekeeper\app\src\androidTestDebug\res

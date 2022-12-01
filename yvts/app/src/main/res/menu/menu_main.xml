@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_notification"
+        android:icon="@drawable/ic_notif_icon"
+        android:title="Тохиргоо"
+        app:showAsAction="always"/>
+   </menu>

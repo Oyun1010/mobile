@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.SimpleCalc.CalculatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-11-11T06:19:39" hostname="OYUN" time="0.013">
+  <properties/>
+  <testcase name="addTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.004"/>
+  <testcase name="powSecondNumNegative" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="subTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersBignums" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="powPosZero" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="powFirstNumNegative" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersNegative" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="mulTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="subWorksWithNegativeResult" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="divTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <testcase name="powInfinity" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="powZeroSecond" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersFloats" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <testcase name="powPositive" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="powNegativeZero" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <testcase name="divTwoNumbersZero" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.002"/>
+  <testcase name="addTwoNumbersWorksWithNegativeResult" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+#Thu Oct 06 19:36:38 ULAT 2022
+base.0=D\:\\Desktop\\4-1\\mobile\\android-fundamentals-apps-v2-master\\Scorekeeper\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
